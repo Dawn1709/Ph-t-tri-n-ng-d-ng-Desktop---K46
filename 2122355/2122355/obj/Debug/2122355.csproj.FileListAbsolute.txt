@@ -1,0 +1,10 @@
+C:\Users\PC602\source\repos\2122355\2122355\bin\Debug\2122355.exe.config
+C:\Users\PC602\source\repos\2122355\2122355\bin\Debug\2122355.exe
+C:\Users\PC602\source\repos\2122355\2122355\bin\Debug\2122355.pdb
+C:\Users\PC602\source\repos\2122355\2122355\obj\Debug\2122355.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\2122355\2122355\obj\Debug\_2122355.Properties.Resources.resources
+C:\Users\PC602\source\repos\2122355\2122355\obj\Debug\2122355.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\2122355\2122355\obj\Debug\2122355.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\2122355\2122355\obj\Debug\2122355.exe
+C:\Users\PC602\source\repos\2122355\2122355\obj\Debug\2122355.pdb
+C:\Users\PC602\source\repos\2122355\2122355\obj\Debug\_2122355.Main.resources
